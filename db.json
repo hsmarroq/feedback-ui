@@ -1,0 +1,14 @@
+{
+  "feedback": [
+    {
+      "text": "this is a test",
+      "rating": 10,
+      "id": 1
+    },
+    {
+      "text": "hello world fr",
+      "rating": 8,
+      "id": 2
+    }
+  ]
+}
